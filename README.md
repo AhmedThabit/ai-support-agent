@@ -1,18 +1,20 @@
-# ai-support-agent
+# AI Support Agent
 
-Problem:
-Small SaaS companies receive a large number of repetitive support tickets.
-Human agents spend significant time answering FAQs instead of focusing on complex issues.
+## Problem
+Small SaaS companies receive a large number of repetitive support tickets. Human agents spend significant time answering FAQs instead of focusing on complex issues.
 
-Solution:
-An AI-powered support agent that classifies tickets, answers common questions using a knowledge base, and escalates low-confidence cases to human agents.
+## Solution
+An AI-powered support agent that:
+- classifies incoming tickets,
+- answers common questions using a knowledge base (RAG),
+- escalates low-confidence cases to human agents.
 
-Target Users:
+## Target Users
 - Support agents
 - Support managers
 - Startup founders
 
-Key Metrics:
+## Key Metrics
 - Average response time
 - Auto-resolution rate
 - Escalation rate
