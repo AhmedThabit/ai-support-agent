@@ -1,0 +1,8 @@
+[
+  {"id":"T-001","text":"I forgot my password and cannot log in to my account.","expected_category":"Account"},
+  {"id":"T-002","text":"My credit card was charged twice this month. Can you help?","expected_category":"Billing"},
+  {"id":"T-003","text":"The app shows a blank screen when I try to open it.","expected_category":"Bug"},
+  {"id":"T-004","text":"Do you offer a free trial?","expected_category":"General"},
+  {"id":"T-005","text":"I did not receive the verification email after signing up.","expected_category":"Account"},
+  {"id":"T-006","text":"Can I get a refund for my last invoice?","expected_category":"Billing"}
+]
